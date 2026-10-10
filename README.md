@@ -67,4 +67,4 @@ Intended for EspoCRM 9.x customizations. Always verify APIs, PHP versions, folde
 
 MIT. See [LICENSE](LICENSE).
 
-Maintained by V1 Health as an open learning resource. **Not affiliated with or endorsed by EspoCRM or Hermes Agent.**
+Maintained by [V1 Health](https://v1health.ro/) as an open learning resource. **Not affiliated with or endorsed by EspoCRM or Hermes Agent.**
