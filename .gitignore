@@ -1,0 +1,17 @@
+# Do not publish local/private operational material
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.sql
+*.sqlite
+*.db
+*.bak
+*.backup
+*.production
+*.log
+**/secrets/**
+**/private/**
+.DS_Store
+__pycache__/
